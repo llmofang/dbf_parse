@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\boy\documents\visual studio 2015\projects\test\test\main.c(49): warning C4047: “函数”:“DBF_HANDLE”与“int”的间接级别不同
+c:\users\boy\documents\visual studio 2015\projects\test\test\main.c(49): warning C4024: “dbf_getfieldcount”: 形参和实参 1 的类型不同
+c:\users\boy\documents\visual studio 2015\projects\test\test\main.c(50): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\boy\documents\visual studio 2015\projects\test\test\main.c(53): warning C4047: “函数”:“DBF_HANDLE”与“int”的间接级别不同
+c:\users\boy\documents\visual studio 2015\projects\test\test\main.c(53): warning C4024: “dbf_getfield”: 形参和实参 1 的类型不同
+c:\users\boy\documents\visual studio 2015\projects\test\test\main.c(53): warning C4024: “dbf_getfieldptr”: 形参和实参 1 的类型不同
+  test.vcxproj -> c:\users\boy\documents\visual studio 2015\Projects\test\Debug\test.exe
